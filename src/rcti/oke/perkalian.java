@@ -5,11 +5,12 @@
 package rcti.oke;
 
 import java.util.Scanner;
-public class RctiOke {
 
-    /**
-     * @param args the command line arguments
-     */
+/**
+ *
+ * @author SBC4
+ */
+public class perkalian {
     public static void main(String[] args) {
         Scanner masuk=new Scanner(System.in);
 System.out.print("NILAI PERTAMA:");
@@ -22,3 +23,4 @@ int hasil=N1*N2;
 System.out.print ("hasil total=" +hasil);
     }
 }
+
